@@ -26,3 +26,7 @@ HTML과 CSS를 중심으로 퍼블리싱 감각을 키우고, 일부 JavaScript�
 - ✅ 웹 접근성 및 시맨틱 태그 사용
 
 ## 🖼️ 화면 예시
+<img src="https://github.com/user-attachments/assets/cad3df93-9a17-4222-b8cd-f4273fa8a4f3" width="200"/>
+<img src="https://github.com/user-attachments/assets/686549e4-5d3d-4334-8f79-6400a22a5328" width="200"/>
+
+
